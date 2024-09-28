@@ -9,3 +9,11 @@ it has an avenue to diversify and thrive into the opportunity for more innovatio
 ### Data Sources
 The primaty source of data used here is Data Sale. CSV and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any
 other data repositiry site.
+
+### Tools Used
+-  Microsoft Exceel [Download Here](https://www.microsoft.com)
+    1. For data cleaning
+    2. fOR Analysis
+    3. FOR Visualisation
+-  SQL - Structured Query Language for quering Data
+-  Github for portfolio Building
