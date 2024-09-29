@@ -2,6 +2,18 @@
 
 ### Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 ---
 Data Analysis project gave me an insight about tech world. Tech is becoming tools many organisations cannot do without for greater explort in their field of work, so i see 
@@ -45,3 +57,14 @@ WHERE CONDITION = TRUE
 
 ### Data Visualisation
 [Mj.docx](https://github.com/user-attachments/files/17177033/Mj.docx)
+
+
+![p](https://github.com/user-attachments/assets/701e72b9-a225-4d67-ade2-01e2470b5f64)
+
+
+
+👍
+
+|Heading 1|Heading 2|Heading 3|
+|--------|----------|---------|
+|Table 1|Table2|Table 3|
